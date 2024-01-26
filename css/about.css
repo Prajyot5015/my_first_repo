@@ -1,5 +1,6 @@
 .info{
     width: 300px;
+    height: 250px;
     margin-left: 500px;
     border: 2px solid cyan;
     border-radius: 15px;
@@ -10,4 +11,7 @@ p{
 }
 .name{
     font-size: 20px;
+}
+.a{
+    margin-left: 20px;
 }
