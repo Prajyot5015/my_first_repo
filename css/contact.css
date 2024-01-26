@@ -1,4 +1,11 @@
 .c1{
     font-size: 50px;
+    background-color: gray;
+    color: black;
+}
+p{
+    padding-left: 50px;
+}
+a{
     margin-left: 50px;
 }
