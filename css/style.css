@@ -2,3 +2,16 @@ body{
     background: #1f242d; 
   color: #ededed;
 }
+.title{
+    font-size: 50px;
+    color: tomato;
+    text-align: center;
+}
+.link{
+    font-size: 40px;
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: violet;
+    color: cyan;
+    border-radius: 30px;
+}

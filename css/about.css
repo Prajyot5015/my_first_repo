@@ -1,0 +1,13 @@
+.info{
+    width: 300px;
+    margin-left: 500px;
+    border: 2px solid cyan;
+    border-radius: 15px;
+}
+p{
+    font-size: 17px;
+    padding-left: 10px;
+}
+.name{
+    font-size: 20px;
+}
